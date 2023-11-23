@@ -26,3 +26,7 @@ conda activate name_of_env
 ```bash
 pip install -r requirement.txt
 ```
+### running project :
+```bash
+python test_main.py --file_name --path --seed --set_action --match_length --number_of_games --playstyle_actions
+```
