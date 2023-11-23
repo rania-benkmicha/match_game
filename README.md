@@ -10,7 +10,8 @@ This project is about football game simulation using AI generative.
 ### Clone the repository:
 ```bash
 git clone 
-cd Use_Case
+cd Use_Case/
+
 
 ```
 ### Create a Conda environment :
@@ -29,5 +30,5 @@ pip install -r requirement.txt
 ```
 ### running project :
 ```bash
-python test_main.py --file_name 'match_1.json' --path './footbar_test/Use_Case_Footbar/data_match' --seed ['run','shot','shot','cross'] --set_action ['walk','run','dribble','rest','pass','tackle','shot','cross'] --match_length 5 --number_of_games 1 --playstyle_actions ["shot", "sprint","pass"]
+python test_main.py --file_name 'match_1.json' --path './data_match' --seed ['run','shot','shot','cross'] --set_action ['walk','run','dribble','rest','pass','tackle','shot','cross'] --match_length 5 --number_of_games 1 --playstyle_actions ["shot", "sprint","pass"]
 ```
