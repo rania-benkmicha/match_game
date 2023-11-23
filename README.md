@@ -2,8 +2,8 @@
 This project is about football game simulation using AI generative.
 
 ## Prerequisites
-- [Conda] (for environment management)
-- [Git](for cloning the repository)
+- [Conda] ( environment management)
+- [Git]( cloning the repository)
 
 ## Installation
 
