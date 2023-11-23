@@ -15,7 +15,7 @@ cd Use_Case
 ```
 ### Create a Conda environment :
 ```bash
-conda create --name name_of_env python=3.9
+conda create --name name_of_env python=3.9.12
 ```
 ### Activate the Conda environment :
 
