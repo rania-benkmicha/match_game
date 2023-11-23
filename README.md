@@ -10,7 +10,7 @@ This project is about football game simulation using AI generative.
 ### Clone the repository:
 ```bash
 git clone 
-cd Use_Case/
+cd match_test/Use_Case/
 
 
 ```
