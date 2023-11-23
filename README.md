@@ -10,7 +10,8 @@ This project is about football game simulation using AI generative.
 ### Clone the repository:
 ```bash
 git clone 
-cd
+cd Use_Case
+
 ```
 ### Create a Conda environment :
 ```bash
