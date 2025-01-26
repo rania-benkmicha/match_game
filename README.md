@@ -1,5 +1,5 @@
 # match_game
-This project is about football game simulation using AI generative.
+A project that simulates football matches using generative AI, leveraging exploratory data analysis and three distinct approaches to handle various game scenarios. Designed to explore strategic outcomes and dynamic gameplay modeling.
 
 ## Prerequisites
 - [Conda] ( environment management)
